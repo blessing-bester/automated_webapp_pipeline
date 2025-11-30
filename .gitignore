@@ -1,0 +1,35 @@
+Terraform
+*.tfstate
+.tfstate.
+.terraform/
+tfplan
+.terraform.lock.hcl
+
+SSH Keys
+*.pem
+*.key
+
+Ansible
+*.retry
+.ansible/
+
+Python
+pycache/
+*.py[cod]
+*.pyc
+
+IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+OS
+.DS_Store
+Thumbs.db
+
+Logs
+*.log
+
+Env files
+.env
