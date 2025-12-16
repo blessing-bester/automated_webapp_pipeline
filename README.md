@@ -8,7 +8,7 @@
 
 > A comprehensive DevOps project demonstrating Infrastructure as Code, Configuration Management, and CI/CD practices on AWS Free Tier.
 
-**[📚 Full Documentation](YOUR_DOCUMENTATION_LINK)** | **[🎥 Demo Video](#)** | **[💼 LinkedIn Post](#)**
+**[📚 Full Documentation](https://automatedpipeline.netlify.app)** |
 
 ---
 
